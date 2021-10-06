@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Akronim&display=swap');
+
+body{
+    font-family: 'Akronim', cursive;
+    
+}
+
+.header{
+    padding: 25px;
+    background-color: hotpink;
+    text-align: center;
+    height: 110px;
+    width: 100%;
+    
+}
+
+.hems{
+    text-align: center;
+    background-color: tomato;
+    width: 2000px;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    margin: 2%;
+   
+}
+
+#glow{
+    box-shadow: yellow 0px 30px 30px, yellow 0px -12px 30px, yellow 0px 4px 6px, yellow 0px 12px 13px,yellow 0px -3px 5px;
+    background-color: tomato;
+    width: 480px;
+    height: 480px;
+    
+    
+}
+
+#glow2{
+    box-shadow: yellow 0px 30px 30px, yellow 0px -12px 30px, yellow 0px 4px 6px, yellow 0px 12px 13px,yellow 0px -3px 5px;
+    background-color: tomato;
+    width: 480px;
+    height: 480px;
+    
+}
+
+#glow3{
+    box-shadow: yellow 0px 30px 30px, yellow 0px -12px 30px, yellow 0px 4px 6px, yellow 0px 12px 13px,yellow 0px -3px 5px;
+    background-color: tomato;
+    width: 480px;
+    height: 480px;
+    
+}
